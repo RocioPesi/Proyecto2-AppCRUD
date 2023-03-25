@@ -75,3 +75,7 @@ const editarUsuario = (id) => {
 
 window.addEventListener("load",mostrarUsuarios)
 
+const guardarInfo = () =>{
+    console.log("guardarInfo");
+    localStorange.setItem("nombre", "Rocio");
+}
