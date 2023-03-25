@@ -73,4 +73,8 @@ const editarUsuario = (id) => {
     agregarUsuario() 
 }
 
+const guardarInfo = () =>{
+    console.log("guardarInfo");
+    localStorange.setItem("nombre", "Rocio");
+}
 
