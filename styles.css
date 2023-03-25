@@ -50,8 +50,9 @@ body{
     margin-top: 0vh;
     margin-bottom: 4vh;
     font-weight: 1rem;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     color: whitesmoke;
+    margin-left: 5 px;
 }
 
 .contenedor .div-formulario form {
